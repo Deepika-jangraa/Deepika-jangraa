@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepika-jangraa
-- 👀 I’m interested in swb developing
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
