@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Deepika-jangraa
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Deepika-jangraa/Deepika-jangraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,11 +16,13 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **IIIT Gwalior studying Computer Science**
+- 👋 Hi, I’m **@Deepika-jangraa**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
 - 🌱 I’m currently exploring **Web Frameworks**
+
+- 👀 I’m interested in  **Web developing**
 
 - 👨‍💻 Know me more <a href="https://deepika-jangraa.github.io/" style="text-decoration: none;">Portfolio</a>
 
