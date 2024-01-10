@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <h4> 📬 Reach me out </h4>
 <p align="left">
 <a href = "https://www.linkedin.com/in/santoshjangra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sakshi_goyat"><img src="file:///C:/Users/DELL/Downloads/icons8-twitterx-50.png"/></a>
+<a href = "https://twitter.com/sakshi_goyat"><img src="C:/Users/DELL/Downloads/icons8-twitterx-50.png"/></a>
 <a href = "https://www.instagram.com/jangradeepika1704/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a> -->
 </p>
